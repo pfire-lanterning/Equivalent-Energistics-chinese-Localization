@@ -1,0 +1,63 @@
+# Creative Tab
+itemGroup.equivalentenergistics=Equivalent Energistics
+
+# Item Names
+item.equivalentenergistics:emc_crystal_0.name=EMC 水晶碎片
+item.equivalentenergistics:emc_crystal_1.name=EMC 水晶碎片
+item.equivalentenergistics:emc_crystal_2.name=EMC 水晶
+item.equivalentenergistics:emc_crystal_3.name=致密 EMC 水晶
+item.equivalentenergistics:emc_crystal_4.name=超致密 EMC 水晶
+item.equivalentenergistics:emc_storage_component_0.name=1级 EMC 存储组件
+item.equivalentenergistics:emc_storage_component_1.name=2级 EMC 存储组件
+item.equivalentenergistics:emc_storage_component_2.name=3级 EMC 存储组件
+item.equivalentenergistics:emc_storage_component_3.name=4级 EMC 存储组件
+item.equivalentenergistics:emc_storage_component_4.name=5级 EMC 存储组件
+item.equivalentenergistics:emc_storage_component_5.name=6级 EMC 存储组件
+item.equivalentenergistics:emc_storage_component_6.name=7级 EMC 存储组件
+item.equivalentenergistics:emc_storage_component_7.name=8级 EMC 存储组件
+item.equivalentenergistics:emc_book.name=炼金术卷册
+item.equivalentenergistics:item_misc_0.name=空 EMC 元件外壳
+item.equivalentenergistics:item_misc_1.name=EMC总计 
+item.equivalentenergistics:emc_cell_0.name=Tier 1 EMC 存储元件
+item.equivalentenergistics:emc_cell_1.name=Tier 2 EMC 存储元件
+item.equivalentenergistics:emc_cell_2.name=Tier 3 EMC 存储元件
+item.equivalentenergistics:emc_cell_3.name=Tier 4 EMC 存储元件
+item.equivalentenergistics:emc_cell_4.name=Tier 5 EMC 存储元件
+item.equivalentenergistics:emc_cell_5.name=Tier 6 EMC 存储元件
+item.equivalentenergistics:emc_cell_6.name=Tier 7 EMC 存储元件
+item.equivalentenergistics:emc_cell_7.name=Tier 8 EMC 存储元件
+item.equivalentenergistics:emc_cell_creative_0.name=创造 EMC 存储元件
+
+# Block Names
+tile.equivalentenergistics:emc_condenser_0.name=EMC 冷凝器
+tile.equivalentenergistics:emc_condenser_1.name=高级 EMC 冷凝器
+tile.equivalentenergistics:emc_condenser_2.name=改良 EMC 冷凝器
+tile.equivalentenergistics:emc_condenser_3.name=终极 EMC 冷凝器
+tile.equivalentenergistics:emc_crafter_0.name=EMC 装配台
+tile.equivalentenergistics:emc_crafter_1.name=高级 EMC 装配台
+tile.equivalentenergistics:emc_crafter_2.name=改良 EMC 装配台
+tile.equivalentenergistics:emc_crafter_3.name=终极 EMC 装配台
+
+# Messages
+message.cell.chestwarning=EMC存储元件不能在ME箱子里查看.
+message.book.clear=所有者信息清空!
+message.book.wrongowner=你现在是这本炼金术卷册的主人了.
+message.book.link=卷册链接!
+message.book.owner=主人:
+message.book.no_owner=未设置主人.
+message.cell.capacity=容量:
+message.condenser.statename.idle=等级
+message.condenser.statename.active=激活
+message.condenser.statename.noemcstorage=无EMC存储
+message.condenser.statename.noitemstorage=无物品存储
+message.condenser.statename.nopower=能量不足
+
+
+# Tooltips
+tooltip.emc.name=已存储 EMC:
+tooltip.owner.name=主人:
+tooltip.status.name=状态:
+tooltip.deviceonline=设备激活
+tooltip.deviceoffline=设备关闭
+tooltip.devicemissingchannel=设备缺少频道
+
