@@ -1,2 +1,2 @@
 # Equivalent-Energistics-chinese-Localization
-Equivalent Energistics chinese Localization by pfire-lanterning
+### **等价能源学自制汉化文本**
